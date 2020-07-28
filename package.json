@@ -1,15 +1,36 @@
 {
 	"name": "user-request",
+	"description": "Simulate a user requesting an HTML page",
 	"version": "1.0.0",
 	"main": "src/index.js",
 	"types": "types/index.d.ts",
-	"scripts": {
-		"test": "jest --verbose tests"
-	},
 	"dependencies": {
 		"axios": "^0.19.2",
 		"random-useragent": "^0.3.1"
 	},
-	"author": "Ken Mueller",
+	"keywords": [
+		"user",
+		"request",
+		"user request",
+		"simulate",
+		"browser",
+		"retry",
+		"fetch",
+		"retry request"
+	],
+	"homepage": "https://github.com/kenmueller/user-request#readme",
+	"bugs": {
+		"url": "https://github.com/kenmueller/user-request/issues",
+		"email": "kenmueller0@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kenmueller/user-request.git"
+	},
+	"author": {
+		"name": "Ken Mueller",
+		"email": "kenmueller0@gmail.com",
+		"url": "https://github.com/kenmueller"
+	},
 	"license": "MIT"
 }
