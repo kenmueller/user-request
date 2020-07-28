@@ -1,0 +1,15 @@
+{
+	"name": "user-request",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"types": "types/index.d.ts",
+	"scripts": {
+		"test": "jest --verbose tests"
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"random-useragent": "^0.3.1"
+	},
+	"author": "Ken Mueller",
+	"license": "MIT"
+}
