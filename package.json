@@ -1,7 +1,7 @@
 {
 	"name": "user-request",
 	"description": "Simulate a user requesting an HTML page",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "src/index.js",
 	"types": "types/index.d.ts",
 	"dependencies": {
@@ -16,7 +16,10 @@
 		"browser",
 		"retry",
 		"fetch",
-		"retry request"
+		"retry request",
+		"scraping",
+		"scrape",
+		"web scraping"
 	],
 	"homepage": "https://github.com/kenmueller/user-request#readme",
 	"bugs": {
