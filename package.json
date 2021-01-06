@@ -5,7 +5,7 @@
 	"main": "src/index.js",
 	"types": "types/index.d.ts",
 	"dependencies": {
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"random-useragent": "^0.3.1"
 	},
 	"keywords": [
